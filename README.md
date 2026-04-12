@@ -20,5 +20,5 @@
 
 ## 安装
 
-claw openclaw skills install awecsfgvs/-zuotizhuan-skill
+claw openclaw skills install awecsfgvs/zuotiqu-skill
 
