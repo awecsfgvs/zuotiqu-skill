@@ -20,7 +20,5 @@
 
 ## 安装
 
-`ash
-openclaw skills install df235/zuotizhuan-skill
-`
+claw openclaw skills install awecsfgvs/-zuotizhuan-skill
 
